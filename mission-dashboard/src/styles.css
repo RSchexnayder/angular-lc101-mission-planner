@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+html {
+background-image: url("https://www.nasa.gov/sites/default/files/images/649694main_pia15417-43_full.jpg"); 
+background-repeat: no-repeat;
+background-size: cover;
+}
